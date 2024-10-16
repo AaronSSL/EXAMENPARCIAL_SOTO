@@ -1,0 +1,6 @@
+@EXAMENPARCIAL_SOTO_HostAddress = http://localhost:5267
+
+GET {{EXAMENPARCIAL_SOTO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
